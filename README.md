@@ -1,8 +1,10 @@
 # a1-3screens
 Assignment 1: Simple App with 3 Screens
 
-## Installation
+## About the App
+Simple baking social app, users can join events and gain points. They can explore new events, or manage events they have joined.
 
+## Installation Instructions
 Install `@react-navigation/native`
 ```sh
 npm install @react-navigation/native
@@ -33,3 +35,4 @@ Install `react-native-svg` peer dependency
 ```sh
 yarn add react-native-svg@^10.0.0
 ```
+## Start Instructions
