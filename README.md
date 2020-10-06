@@ -1,7 +1,7 @@
 # a1-3screens
-Assignment 1: Simple App with 3 Screens
 
 ## About the App
+Assignment 1: Simple App with 3 Screens
 Simple baking social app, users can join events and gain points. They can explore new events, or manage events they have joined.
 
 ## Installation Instructions
@@ -36,3 +36,11 @@ Install `react-native-svg` peer dependency
 yarn add react-native-svg@^10.0.0
 ```
 ## Start Instructions
+Start `expo`
+```sh
+expo start
+```
+Run on an iOS Simulator
+```sh
+npm run ios
+```
