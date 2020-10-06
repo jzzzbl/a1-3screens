@@ -27,12 +27,12 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 
 Install `@callstack/reanimated-arc`
 ```sh
-yarn add @callstack/reanimated-arc
+npm install @callstack/reanimated-arc
 ```
 
 Install `react-native-svg` peer dependency
 ```sh
-yarn add react-native-svg@^10.0.0
+npm install react-native-svg@^10.0.0
 ```
 ## Start Instructions
 Start `expo`
