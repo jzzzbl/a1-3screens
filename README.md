@@ -40,7 +40,4 @@ Start `expo`
 ```sh
 expo start
 ```
-Run on an iOS Simulator
-```sh
-npm run ios
-```
+To run on a simpulator, press a for Android emulator, or i for iOS simulator, or w to run on web.
