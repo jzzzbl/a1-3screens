@@ -40,4 +40,4 @@ Start `expo`
 ```sh
 expo start
 ```
-To run on a simpulator, press a for Android emulator, or i for iOS simulator, or w to run on web.
+Then press `a` for Android emulator, or `i` for iOS simulator, or `w` to run on web.
